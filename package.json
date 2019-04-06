@@ -1,0 +1,8 @@
+{
+  "name": "PureReact",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lxg1992/PureReact.git",
+  "author": "Alex Garin <lxg1992@gmail.com>",
+  "license": "MIT"
+}
