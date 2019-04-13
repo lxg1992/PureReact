@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/lxg1992/PureReact.git",
   "author": "Alex Garin <lxg1992@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-plugin-react": "^7.12.4"
+  }
 }
